@@ -1,0 +1,16 @@
+Origin_Zip_Code,Origin_City,Destination_Zip_Code,Destination_City,Origin_Weather,Destination_Weather,Actual_Transit_Time( hrs)
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Sunny,Sunny,1
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Sunny,Rainy,1.8
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Sunny,Stormy,2
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Sunny,Foggy,3
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Rainy,Sunny,1.5
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Rainy,Rainy,2.5
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Rainy,Foggy,3.5
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Rainy,Stormy,3
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Foggy,Sunny,3
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Foggy,Rainy,4
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Foggy,Stormy,4
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Foggy,Foggy,6
+8854,"Piscataway, NJ",8837,"EDISON,NJ",Stormy,Stormy,5
+8854,"Piscataway, NJ",92121,"SAN  DIEGO,CA",Sunny,Sunny,2
+8854,"Piscataway, NJ",38654,"OLIVE BRANCH,MS",Stormy,Sunny,3
