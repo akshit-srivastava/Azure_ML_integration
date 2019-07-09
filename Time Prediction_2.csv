@@ -1,4 +1,4 @@
-Origin Zip Code,Destination Zip Code,Origin Weather,Destination Weather,Actual Transit Time( hrs)
+Origin_Zip_Code,Destination_Zip_Code,Origin_Weather,Destination_Weather,Actual_Transit_Time( hrs)
 8854,8837,Sunny,Sunny,1
 8854,8837,Sunny,Rainy,1.8
 8854,8837,Sunny,Stormy,2
